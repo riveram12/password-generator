@@ -17,7 +17,7 @@ webpae link - https://riveram12.github.io/MBR-responsive-portfolio/index.html
 
 ## General info
 
-Our teask for this asisgmnet was to deploy a password generator apllication where a user can select chertain password criteria and click the generte button to reterun a reandom passowrd based ont hat criteria.
+Our task for this asisgmnet was to deploy a password generator apllication where a user can select chertain password criteria and click the generte button to reterun a reandom passowrd based ont hat criteria.
 
 ## Screenshots
 
@@ -53,22 +53,13 @@ THEN the password is either displayed in an alert or written to the page
 
 List of features ready and TODOs for future development
 
-- Nav bar with fuctional links to may other webb pages (portfolio, aboutme page)
-- Used bootstrap to create a jumbotron and cards
-- added outside fonts
-- used a color scheme to bring a cohesive look to the webpage
-- Anchor links in nav bar to about me section
-- Added & created my own graphic elemts using illustrator like backgroundimages and porfotlio images
-- Created a contact me form
-- used a fixed footer to allow footer to scrool with page.
-- reformated/organized syntax
+- when generate button is pushed browser prompts user with question for password criteria
+- Questions loop if no slection is made
+- Once password criteria is choosen a password is generated in text box
 
 To-do list:
 
-- Fix (margin-bottom) space bettwen footer and about me section
-- add more social media links
-- connect my porfolio cards to other pages with my work.
-- continue to edit and update the information/ style of pages.
+- Whenn cancel button is click for all criteria nothing happens, prompts end: figure out how to loop back through questions
 
 ## Status
 
@@ -78,18 +69,13 @@ Project is: _in progress_ other features can be added to make website more dynam
 
 study group 1 - We helped eachother slove issues by debugging, sharing outside resources and going step by step to understand why soemthing was written/coded the way it was.
 
-adobe stock - to create images
-https://stock.adobe.com/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=web+design&order=relevance&safe_search=1&search_page=1&search_type=usertyped&acp=&aco=web+design&get_facets=0
+Online Resrouces
 
-w3schools
-
-- https://www.w3schools.com/tags/tag_a.asp
-- https://www.w3schools.com/howto/howto_js_collapsible.asp
-- https://blog.hubspot.com/marketing/jump-link-same-page
-- https://www.w3schools.com/howto/howto_css_fixed_footer.asp
-- https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons2
-- https://www.w3schools.com/cssref/pr_background-image.asp
+- https://dev.to/olawanle_joel/password-generator-with-javascript-57c
+- https://codereview.stackexchange.com/questions/97507/app-for-generating-passwords
+- https://www.theamplituhedron.com/projects/JavaScript-Random-Password-Generator/
+- https://stackoverflow.com/questions/59504465/generate-random-password-based-on-user-input-in-javascript
+- https://jsfiddle.net/easyjs/ex19kxwc/
 
 ## Contact
 
