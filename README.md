@@ -1,8 +1,6 @@
-# mbr-protfolio
+# password-generator-application
 
-My Portfolio - Developing first layout and bones of my own developer protfoilo
-
-webpae link - https://riveram12.github.io/MBR-responsive-portfolio/index.html
+webpae link - https://riveram12.github.io/password-generator/
 
 ## Table of contents
 
