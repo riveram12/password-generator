@@ -1,9 +1,7 @@
-// The Password generator will provide a password with 8-128  characters based on criteria the user specifies.
-
 //Assignment Code + Event Listener to prompt questions when button pushed
 document.querySelector("#generate").addEventListener("click", writePassword);
 
-// Various Arrays
+// Character Arrays
 var number = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 var specialChar = [
   "!",
@@ -90,7 +88,7 @@ function generatePassword() {
     "How many characters would you like your password to contain?"
   );
 
-  // Loop if user makes selectes no password criteria
+  // Loop if user selects no password criteria (hits cancel button)
   while (confirmLength <= 8 || confirmLength >= 128) {
     alert("Password length must be between 8-128 characters Try again");
     var confirmLength = prompt(
@@ -133,7 +131,7 @@ function generatePassword() {
 
   console.log(passwordCharacters);
 
-  // looping of the selection of random characters
+  // for loop for generating a randon slection of characters for password
   var randomPassword = "";
 
   for (var i = 0; i < confirmLength; i++) {
@@ -145,7 +143,7 @@ function generatePassword() {
   return randomPassword;
 }
 
-// Write password to the #password input
+// password is revealed in the #password text box
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");

@@ -17,15 +17,11 @@ webpae link - https://riveram12.github.io/MBR-responsive-portfolio/index.html
 
 ## General info
 
-This week’s homework requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
-
-Our teask for this asisgmnet was to deploy a password generator
+Our teask for this asisgmnet was to deploy a password generator apllication where a user can select chertain password criteria and click the generte button to reterun a reandom passowrd based ont hat criteria.
 
 ## Screenshots
 
-![Screen Shot 1](assets/images/screenshot1.png)
-![Screen Shot 2](assets/images/screenshot2.png)
-![Screen Shot 3](assets/images/screenshot3.png)
+![Screen Shot 1](assets/images/homework-demo.png)
 
 ## Technologies
 
